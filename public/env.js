@@ -1,0 +1,1 @@
+window.endpoint = "http://test.cfarma.cc/api"
